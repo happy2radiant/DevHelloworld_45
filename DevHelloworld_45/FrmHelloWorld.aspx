@@ -20,6 +20,7 @@
             <asp:DropDownList ID="DropDownList1" runat="server">
                 <asp:ListItem Value="banana">바나나</asp:ListItem>
                 <asp:ListItem Value="graph">포도</asp:ListItem>
+                <asp:ListItem Value="apple">사과</asp:ListItem>
             </asp:DropDownList>
             <br />
             <asp:Label ID="Label2" runat="server" Text="성별 : "></asp:Label>
