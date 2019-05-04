@@ -13,7 +13,7 @@ namespace DevHelloworld_45
 
         protected void btnClick_Click(object sender, EventArgs e)
         {
-            txtDisplay.Text = "안녕하세요 곽명성입니다.";
+            txtDisplay.Text = "안녕하세요 곽명성입니다!!";
             DropDownList1.SelectedValue = "graph";
             RadioButton1.Checked = true;
             RadioButton2.Checked = false;
